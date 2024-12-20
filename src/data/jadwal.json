@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "mataKuliah": "Algoritma Pemrograman",
+      "waktu": "Senin, 09:00 - 11:00",
+      "lokasi": "Ruang 4-49-4",
+      "catatan": "Tugas minggu depan"
+    },
+    {
+      "id": 2,
+      "mataKuliah": "Statistika",
+      "waktu": "Selasa, 13:00 - 15:00",
+      "lokasi": "Ruang 202",
+      "catatan": "-"
+    },
+    {
+      "id": 3,
+      "mataKuliah": " Sistem Basis Data",
+      "waktu": "Rabu, 08:00 - 10:00",
+      "lokasi": "Ruang 303",
+      "catatan": "Review materi UAS"
+    }
+  ]
+  
